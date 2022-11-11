@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Holadoc</string>
+    <string-array name="spesialisArr">
+        <item>Umum</item>
+        <item>Gigi</item>
+        <item>Anak</item>
+        <item>Kulit dan Kelamin</item>
+        <item>Ortopedi</item>
+        <item>Organ Dalam</item>
+        <item>Saraf</item>
+        <item>Kandungan</item>
+        <item>THT</item>
+    </string-array>
+</resources>
